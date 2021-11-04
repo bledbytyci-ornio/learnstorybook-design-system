@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "learn-ds",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -76,7 +76,17 @@
   },
   "description": "Design system",
   "main": "index.js",
-  "repository": "https://github.com/bledbytyci-ornio/learnstorybook-design-system.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bledbytyci-ornio/learnstorybook-design-system.git"
+  },
   "author": "Bled Bytyci <bled.bytyci@ornio.no>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bledbytyci-ornio/learnstorybook-design-system/issues"
+  },
+  "homepage": "https://github.com/bledbytyci-ornio/learnstorybook-design-system#readme",
+  "keywords": [
+    "gs"
+  ]
 }
